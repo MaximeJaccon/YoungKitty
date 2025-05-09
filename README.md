@@ -12,8 +12,6 @@
   </a>
 </p>
 
----
-
 ## About the Project
 
 **YoungKitty** is a collection of code-based simulations and visualizations developed to accompany content on my [YouTube channel](https://www.youtube.com/@MaximeJaccon). The repository encompasses a range of topics in mathematics and physics, providing both the computational models and the resulting visual outputs.
@@ -26,7 +24,7 @@ Each project is designed to be self-contained, with clear documentation and repr
 
 The repository is organized into the following directories:
 
-- `math/`: Contains mathematical simulations and visualizations, such as the Mandelbrot set and other fractal explorations.
+- `math/`: Contains mathematical simulations and visualizations, such as the Lorenz attractor and Hopf fibration.
 - `physics/`: Includes physics-based simulations, such as the double pendulum and wave equations.
 - `results/`: Stores rendered outputs from simulations, including images and videos used in YouTube content.
 - `README.md`: Provides an overview of the repository and its contents.
@@ -35,23 +33,24 @@ The repository is organized into the following directories:
 
 ## Featured Projects
 
-### Mandelbrot Set Visualization
+### The Lorenz Attractor
 
 <table>
   <tr>
     <td width="320">
-      <a href="https://www.youtube.com/watch?v=XXXXXXXX" target="_blank">
-        <img src="results/mandelbrot_thumbnail.jpg" width="100%" alt="Mandelbrot Set Thumbnail" />
+      <a href="https://www.youtube.com/watch?v=kcIf2OTBpx8" target="_blank">
+        <img src="https://img.youtube.com/vi/kcIf2OTBpx8/0.jpg" width="100%" alt="Lorenz Attractor Thumbnail" />
       </a>
     </td>
     <td>
-      <strong>Code:</strong> <a href="math/mandelbrot.py">math/mandelbrot.py</a><br />
-      <strong>Description:</strong> Generates a visualization of the Mandelbrot set using Python and matplotlib.<br />
-      <strong>Video:</strong> <a href="https://www.youtube.com/watch?v=XXXXXXXX">Watch on YouTube</a><br />
-      <strong>Tools:</strong> Python, matplotlib
+      <strong>Code:</strong> <a href="math/mandelbrot.py">math/chaos/lorenz_attractor.py</a><br />
+      <strong>Description:</strong> Generates a visualization of the Lorenz Attractor using Python and Manim.<br />
+      <strong>Video:</strong> <a href="https://www.youtube.com/watch?v=kcIf2OTBpx8" target="_blank">Watch on YouTube</a><br />
+      <strong>Tools:</strong> Python, manim
     </td>
   </tr>
 </table>
+
 
 ---
 
