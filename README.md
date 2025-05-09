@@ -26,7 +26,6 @@ The repository is organized into the following directories:
 
 - `math/`: Contains mathematical simulations and visualizations, such as the Lorenz attractor and Hopf fibration.
 - `physics/`: Includes physics-based simulations, such as the double pendulum and wave equations.
-- `results/`: Stores rendered outputs from simulations, including images and videos used in YouTube content.
 - `README.md`: Provides an overview of the repository and its contents.
 
 ---
@@ -50,7 +49,6 @@ The repository is organized into the following directories:
     </td>
   </tr>
 </table>
-
 
 ---
 
