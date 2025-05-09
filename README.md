@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/GitHub-MaximeJaccon-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/maxime.jaccon" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-MaximeJaccon-pink?style=for-the-badge&logo=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@maxime.jaccon-pink?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
 </p>
 
