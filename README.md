@@ -54,20 +54,20 @@ The repository is organized into the following directories:
 
 ---
 
-### Double Pendulum Simulation
+### Waves in an Ellipse
 
 <table>
   <tr>
     <td width="320">
-      <a href="https://www.youtube.com/watch?v=YYYYYYYY" target="_blank">
-        <img src="results/double_pendulum_thumbnail.jpg" width="100%" alt="Double Pendulum Thumbnail" />
+      <a href="https://www.youtube.com/watch?v=MGDQrChEIpo" target="_blank">
+        <img src="https://img.youtube.com/vi/MGDQrChEIpo/0.jpg" width="100%" alt="Wave Ellipse Thumbnail" />
       </a>
     </td>
     <td>
-      <strong>Code:</strong> <a href="physics/double_pendulum.jl">physics/double_pendulum.jl</a><br />
-      <strong>Description:</strong> Simulates the chaotic motion of a double pendulum using Julia and GLMakie.<br />
-      <strong>Video:</strong> <a href="https://www.youtube.com/watch?v=YYYYYYYY">Watch on YouTube</a><br />
-      <strong>Tools:</strong> Julia, GLMakie
+      <strong>Code:</strong> <a href="physics/waves/wave_ellipse.py">physics/waves/wave_ellipse.py</a><br />
+      <strong>Description:</strong> Generates a visualization of wave propogation in an ellipse using Python and matplotlib.<br />
+      <strong>Video:</strong> <a href="https://www.youtube.com/watch?v=MGDQrChEIpo" target="_blank">Watch on YouTube</a><br />
+      <strong>Tools:</strong> Python, matplotlib
     </td>
   </tr>
 </table>
