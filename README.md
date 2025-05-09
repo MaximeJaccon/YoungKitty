@@ -43,7 +43,7 @@ The repository is organized into the following directories:
       </a>
     </td>
     <td>
-      <strong>Code:</strong> <a href="math/mandelbrot.py">math/chaos/lorenz_attractor.py</a><br />
+      <strong>Code:</strong> <a href="math/chaos/lorenz_attractor.py">math/chaos/lorenz_attractor.py</a><br />
       <strong>Description:</strong> Generates a visualization of the Lorenz Attractor using Python and Manim.<br />
       <strong>Video:</strong> <a href="https://www.youtube.com/watch?v=kcIf2OTBpx8" target="_blank">Watch on YouTube</a><br />
       <strong>Tools:</strong> Python, manim
