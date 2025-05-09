@@ -1,8 +1,8 @@
-<h1 align="center">YoungKitty — Computational Simulations and Visual Explorations</h1>
+<h1 align="center">YoungKitty — Simulations and Visual Mathematics</h1>
 
 <p align="center">
   <a href="https://www.youtube.com/@MaximeJaccon" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-MaximeJaccon-red?style=for-the-badge&logo=youtube" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-YoungKitty-red?style=for-the-badge&logo=youtube" alt="YouTube" />
   </a>
   <a href="https://github.com/MaximeJaccon" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-MaximeJaccon-181717?style=for-the-badge&logo=github" alt="GitHub" />
