@@ -72,6 +72,26 @@ The repository is organized into the following directories:
 
 ---
 
+### The Stereographic Projection
+
+<table>
+  <tr>
+    <td width="320">
+      <a href="https://www.youtube.com/watch?v=dE69aI1Ncwg" target="_blank">
+        <img src="https://img.youtube.com/vi/dE69aI1Ncwg/0.jpg" width="100%" alt="Stereographic Projection Thumbnail" />
+      </a>
+    </td>
+    <td>
+      <strong>Code:</strong> <a href="math/animations/stereographic_projection.py">math/animations/stereographic_projection.py</a><br />
+      <strong>Description:</strong> Generates a visualization of the stereographic projection using Python and Manim.<br />
+      <strong>Video:</strong> <a href="https://www.youtube.com/watch?v=dE69aI1Ncwg" target="_blank">Watch on YouTube</a><br />
+      <strong>Tools:</strong> Python, matplotlib
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Running the Simulations
 
 To run the simulations locally:
