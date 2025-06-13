@@ -1,3 +1,6 @@
+from manim import *
+import numpy as np
+
 class ComplexNewtonsMethod(Scene):
     def construct(self):
         # Create complex plane
